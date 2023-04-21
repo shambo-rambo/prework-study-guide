@@ -1,6 +1,3 @@
-# prework-study-guide
-Bootcamp
-
 # Prework Study Guide Webpage
 
 ## Description
